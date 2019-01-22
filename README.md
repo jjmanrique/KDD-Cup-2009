@@ -14,3 +14,7 @@ The notebook in this repository performs analysis and creates predictive models 
 * Matplotlib
 * Seaborn
 * Scikit-learn
+
+# Source
+
+https://www.kdd.org/kdd-cup/view/kdd-cup-2009/
